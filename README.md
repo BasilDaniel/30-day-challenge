@@ -2,7 +2,7 @@
 
 Приложение на чистых HTML, CSS и JavaScript, без сборки и зависимостей.
 
-Откройте `https://BasilDaniel.github.io/30-day-challenge/`. Не открывайте `index.html` через `file://`: service worker требует localhost или HTTPS.
+Откройте https://BasilDaniel.github.io/30-day-challenge/. Не открывайте `index.html` через `file://`: service worker требует localhost или HTTPS.
 
 ## Установка на телефон
 
