@@ -2,15 +2,7 @@
 
 Приложение на чистых HTML, CSS и JavaScript, без сборки и зависимостей.
 
-## Запуск локально
-
-В папке проекта выполните:
-
-```bash
-python3 -m http.server 8080
-```
-
-Откройте `http://localhost:8080`. Не открывайте `index.html` через `file://`: service worker требует localhost или HTTPS.
+Откройте `https://BasilDaniel.github.io/30-day-challenge/`. Не открывайте `index.html` через `file://`: service worker требует localhost или HTTPS.
 
 ## Установка на телефон
 
